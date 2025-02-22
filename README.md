@@ -1,0 +1,1 @@
+This repository demonstrates a runtime error encountered in Next.js 15's App Router when using experimental features. The application fails to render, and debugging the issue is challenging due to inconsistent error messages.  The solution demonstrates a workaround to avoid this error.
